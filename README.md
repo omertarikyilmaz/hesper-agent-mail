@@ -1,4 +1,4 @@
-## Hesper Agent Mail (Aion)
+## Hesper Labs | Agent: Mail
 
 A command-line app that reads IMAP emails and summarizes them using small language models (Small LLMs). Designed to run smoothly on a Raspberry Pi 5 (8 GB RAM). The app uses Ollama to run lightweight chat models and LangGraph to orchestrate a simple tool-calling flow.
 
